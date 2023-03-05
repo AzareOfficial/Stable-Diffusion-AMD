@@ -14,9 +14,9 @@ Drag and Drop Modified files to Repositories
 
 ![image](https://user-images.githubusercontent.com/36568154/222983031-04583f42-0dec-4bd7-9a14-f06b868d3ed0.png)
 
-Run webui-user.bat and wait until everything is established and until the page opens in the browser.
+Run **webui-user.bat** and wait until everything is established and until the page opens in the browser.
 
 Check Task Manager on Windows, if you did it right your graphics card will be used instead of the processor.
-Have Fun!
+**Have Fun!**
 
 # You need find and download models for SD yourself.
