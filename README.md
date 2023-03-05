@@ -4,7 +4,7 @@ Stable Diffusion for AMD users
 # Download
 1. Git latest version https://git-scm.com/download/win
 2. Python 3.10.6 https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe
-3. Clone Repository.
+3. Clone Repository - https://github.com/lshqqytiger/stable-diffusion-webui-directml
 4. Clone Modified K-Diffusion files - https://github.com/lshqqytiger/k-diffusion-directml
 5. Clone Modified Stable Diffusion files - https://github.com/lshqqytiger/stablediffusion-directml
 
@@ -31,3 +31,4 @@ Drop models and VAE here.
 ![image](https://user-images.githubusercontent.com/36568154/222983954-d8551185-f7c8-4d61-b901-c6255214ccec.png)
 ![image](https://user-images.githubusercontent.com/36568154/222983977-e17cc0d9-fa25-435a-8594-807342294083.png)
 
+#Original Autor 
