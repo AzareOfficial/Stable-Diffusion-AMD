@@ -21,6 +21,7 @@ Check Task Manager on Windows, if you did it right your graphics card will be us
 
 # You need find and download models for SD yourself.
 Drop models and VAE here.
+
 ![image](https://user-images.githubusercontent.com/36568154/222983954-d8551185-f7c8-4d61-b901-c6255214ccec.png)
 ![image](https://user-images.githubusercontent.com/36568154/222983977-e17cc0d9-fa25-435a-8594-807342294083.png)
 
