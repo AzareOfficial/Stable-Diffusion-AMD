@@ -16,6 +16,18 @@ Drag and Drop Modified files to Repositories
 
 ![image](https://user-images.githubusercontent.com/36568154/222984536-8a22f190-c673-469d-9300-f38b27ad05c6.png) ![image](https://user-images.githubusercontent.com/36568154/222984590-3fa136f9-ad91-4362-bdeb-53ff772e33ad.png)
 
+Modify **webui-user.bat** like this 
+```
+@echo off
+
+set PYTHON=
+set GIT=
+set VENV_DIR=
+set COMMANDLINE_ARGS= --lowvram --disable-nan-check --autolaunch --opt-split-attention
+set GIT_SSL_NO_VERIFY=true
+
+call webui.bat
+```
 
 
 Run **webui-user.bat** and wait until everything is established and until the page opens in the browser.
