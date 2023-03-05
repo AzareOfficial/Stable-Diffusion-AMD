@@ -7,6 +7,7 @@ Stable Diffusion for AMD users
 3. Clone Repository.
 4. Clone Modified K-Diffusion files - https://github.com/lshqqytiger/k-diffusion-directml
 5. Clone Modified Stable Diffusion files - https://github.com/lshqqytiger/stablediffusion-directml
+
 Drag and Drop Modified files to Repositories
 
 ![image](https://user-images.githubusercontent.com/36568154/222983018-f5f894f8-ea2d-478a-9262-abaf773dae7f.png)
