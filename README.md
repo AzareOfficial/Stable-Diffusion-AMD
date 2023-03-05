@@ -14,6 +14,9 @@ Drag and Drop Modified files to Repositories
 
 ![image](https://user-images.githubusercontent.com/36568154/222983031-04583f42-0dec-4bd7-9a14-f06b868d3ed0.png)
 
+![image](https://user-images.githubusercontent.com/36568154/222984536-8a22f190-c673-469d-9300-f38b27ad05c6.png)
+
+
 Run **webui-user.bat** and wait until everything is established and until the page opens in the browser.
 
 Check Task Manager on Windows, if you did it right your graphics card will be used instead of the processor.
