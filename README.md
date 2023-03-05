@@ -20,6 +20,7 @@ Check Task Manager on Windows, if you did it right your graphics card will be us
 **Have Fun!**
 
 # You need find and download models for SD yourself.
+You can use this site to search models for SD - https://civitai.com/
 Drop models and VAE here.
 
 ![image](https://user-images.githubusercontent.com/36568154/222983954-d8551185-f7c8-4d61-b901-c6255214ccec.png)
