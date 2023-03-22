@@ -16,7 +16,7 @@ Drag and Drop Modified files to Repositories
 
 ![image](https://user-images.githubusercontent.com/36568154/222984536-8a22f190-c673-469d-9300-f38b27ad05c6.png) ![image](https://user-images.githubusercontent.com/36568154/222984590-3fa136f9-ad91-4362-bdeb-53ff772e33ad.png)
 
-Modify **webui-user.bat** like this (if you have 4gb VRAM or less then use ```--lowvram``` , if you have 8gb VRAM or more use ```--medvram```)
+Modify **webui-user.bat** like this (if you have 4gb VRAM or less then use ```--lowvram``` , if you have 8gb VRAM or more then use ```--medvram```)
 ```
 @echo off
 
