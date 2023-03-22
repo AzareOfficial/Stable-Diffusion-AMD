@@ -2,11 +2,11 @@
 Stable Diffusion for AMD users
 
 # Download
-1. Git latest version https://git-scm.com/download/win
-2. Python 3.10.6 https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe
-3. Clone Repository - https://github.com/lshqqytiger/stable-diffusion-webui-directml
-4. Clone Modified K-Diffusion files - https://github.com/lshqqytiger/k-diffusion-directml
-5. Clone Modified Stable Diffusion files - https://github.com/lshqqytiger/stablediffusion-directml
+**1.** Git latest version https://git-scm.com/download/win
+**2.** Python 3.10.6 https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe
+**3.** Clone Repository - https://github.com/lshqqytiger/stable-diffusion-webui-directml
+**4.** Clone Modified K-Diffusion files - https://github.com/lshqqytiger/k-diffusion-directml
+**5.** Clone Modified Stable Diffusion files - https://github.com/lshqqytiger/stablediffusion-directml
 
 Drag and Drop Modified files to Repositories
 
@@ -16,7 +16,7 @@ Drag and Drop Modified files to Repositories
 
 ![image](https://user-images.githubusercontent.com/36568154/222984536-8a22f190-c673-469d-9300-f38b27ad05c6.png) ![image](https://user-images.githubusercontent.com/36568154/222984590-3fa136f9-ad91-4362-bdeb-53ff772e33ad.png)
 
-Modify **webui-user.bat** like this (if you have 4gb VRAM or less then use ```--lowvram``` , if you have 8gb VRAM or more then use ```--medvram``` , if you have 12gb VRAM or above don't use this options)
+Modify **webui-user.bat** like this (if you have **4gb VRAM** or less then use ```--lowvram``` , if you have **8gb VRAM** or more then use ```--medvram``` , if you have **12gb VRAM** or above **don't use this options**)
 ```
 @echo off
 
