@@ -1,5 +1,5 @@
 # Stable-Diffusion-AMD
-Stable Diffusion for AMD users
+Stable Diffusion for AMD users (OUTDATED)
 
 # Download
 **1.** Git latest version https://git-scm.com/download/win
