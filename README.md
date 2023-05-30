@@ -1,4 +1,4 @@
-# Stable-Diffusion-AMD
+# Stable-Diffusion-AMD (OUTDATED)
 Stable Diffusion for AMD users (OUTDATED)
 
 # Download
