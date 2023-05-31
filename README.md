@@ -1,7 +1,7 @@
-# Stable-Diffusion-AMD (OUTDATED)
-Stable Diffusion for AMD users (OUTDATED)
+# Stable-Diffusion-AMD 
+Stable Diffusion for AMD users 
 
-**Use this guide** https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs
+**You can use this guide** https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs
 
 # Download
 **1.** Git latest version https://git-scm.com/download/win
