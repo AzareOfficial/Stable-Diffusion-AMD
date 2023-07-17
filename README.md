@@ -2,6 +2,7 @@
 Stable Diffusion for AMD users 
 
 **You can use this guide** https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs
+
 **Or use my guide**
 # Download
 **1.** Git latest version https://git-scm.com/download/win
