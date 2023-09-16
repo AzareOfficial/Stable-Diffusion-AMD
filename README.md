@@ -1,4 +1,4 @@
-# Stable-Diffusion-AMD 
+# [outdated]Stable-Diffusion-AMD 
 Stable Diffusion for AMD users 
 
 **You can use this guide** https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs
