@@ -11,18 +11,22 @@ Stable Diffusion for AMD users
 
 **3.** Clone Repository and just modify **webui-user.bat** - https://github.com/lshqqytiger/stable-diffusion-webui-directml
 
-**4.** [outdated] Clone Modified K-Diffusion files - https://github.com/lshqqytiger/k-diffusion-directml #You don't need to use this
+<details>
+  <summary> ##You don't need to use this!## </summary>
 
-**5.** [outdated] Clone Modified Stable Diffusion files - https://github.com/lshqqytiger/stablediffusion-directml #You don't need to use this
+**4.** [outdated] Clone Modified K-Diffusion files - https://github.com/lshqqytiger/k-diffusion-directml
+ 
+**5.** [outdated] Clone Modified Stable Diffusion files - https://github.com/lshqqytiger/stablediffusion-directml
 
 
-[outdated] Drag and Drop Modified files to Repositories #You don't need to use this
+Drag and Drop Modified files to Repositories #You don't need to use this
 
 ![image](https://user-images.githubusercontent.com/36568154/222983018-f5f894f8-ea2d-478a-9262-abaf773dae7f.png)
 
 ![image](https://user-images.githubusercontent.com/36568154/222983031-04583f42-0dec-4bd7-9a14-f06b868d3ed0.png)
 
 ![image](https://user-images.githubusercontent.com/36568154/222984536-8a22f190-c673-469d-9300-f38b27ad05c6.png) ![image](https://user-images.githubusercontent.com/36568154/222984590-3fa136f9-ad91-4362-bdeb-53ff772e33ad.png)
+</details>
 
 Modify **webui-user.bat** like this (if you have **4gb VRAM** or less then use ```--lowvram``` , if you have **8gb VRAM** or more then use ```--medvram``` (you don't have to use, I checked without it and it worked fine) , if you have **12gb VRAM** or above **don't use this options**)
 ```
