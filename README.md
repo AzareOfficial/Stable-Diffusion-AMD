@@ -11,12 +11,12 @@ Stable Diffusion for AMD users
 
 **3.** Clone Repository and just modify **webui-user.bat** - https://github.com/lshqqytiger/stable-diffusion-webui-directml
 
-**4.** [outdated] Clone Modified K-Diffusion files - https://github.com/lshqqytiger/k-diffusion-directml
+**4.** [outdated] Clone Modified K-Diffusion files - https://github.com/lshqqytiger/k-diffusion-directml #You don't need to use this
 
-**5.** [outdated] Clone Modified Stable Diffusion files - https://github.com/lshqqytiger/stablediffusion-directml
+**5.** [outdated] Clone Modified Stable Diffusion files - https://github.com/lshqqytiger/stablediffusion-directml #You don't need to use this
 
 
-Drag and Drop Modified files to Repositories
+[outdated] Drag and Drop Modified files to Repositories #You don't need to use this
 
 ![image](https://user-images.githubusercontent.com/36568154/222983018-f5f894f8-ea2d-478a-9262-abaf773dae7f.png)
 
