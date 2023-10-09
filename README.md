@@ -44,6 +44,8 @@ call webui.bat
 
 Run **webui-user.bat** and wait until everything is established and until the page opens in the browser.
 
+If have problem with card memory u can read [this](https://github.com/lshqqytiger/stable-diffusion-webui-directml/discussions/84) and it maybe should help
+
 Check Task Manager on Windows, if you did it right your graphics card will be used instead of the processor.
 **Have Fun!**
 
