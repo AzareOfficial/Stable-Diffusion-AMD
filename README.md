@@ -35,8 +35,8 @@ Modify **webui-user.bat** like this (if you have **4gb VRAM** or less then use `
 set PYTHON=
 set GIT=
 set VENV_DIR=
-set COMMANDLINE_ARGS= --lowvram --disable-nan-check --autolaunch --opt-split-attention
-set GIT_SSL_NO_VERIFY=true
+set PYTORCH_CUDA_ALLOC_CONF=garbage_collection_threshold:0.9,max_split_size_mb:512
+set COMMANDLINE_ARGS= --lowvram --precision full --no-half --no-half-vae --opt-split-attention --disable-nan-check --autolaunch
 
 call webui.bat
 ```
